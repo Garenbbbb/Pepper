@@ -1,0 +1,22 @@
+[
+    {"id": 1001,"name": "Buddy", "age": 3, "type": "Dog", "gender": "Male", "size": "Medium", "description": "Meet Buddy, a delightful three-year-old male dog with a medium-sized frame. His affable nature and playful demeanor make him an instant favorite among both humans and fellow canines. With his warm disposition and boundless energy, Buddy is always up for an adventure or a game of fetch in the park. His charming personality shines through as he eagerly interacts with everyone he meets, spreading joy wherever he goes. Whether it's wagging his tail in excitement or offering a comforting nuzzle, Buddy's loyalty and affection are boundless. In any home, he would undoubtedly be a cherished companion, bringing happiness and laughter to those lucky enough to have him by their side.", "imageName": "dog1", "likes": [],
+        "dislikes": [] , "matches": []},
+    {"id": 1002,"name": "Whiskers", "age": 2, "type": "Cat", "gender": "Female", "size": "Small", "description": "Loves to nap in the sun.", "imageName": "cat1", "likes": [1001],
+        "dislikes": [1003], "matches": []},
+    {"id": 1003,"name": "Thumper", "age": 1, "type": "Cat", "gender": "Male", "size": "Small", "description": "Curious and loves to explore.", "imageName": "cat2", "likes": [1001],
+        "dislikes": [1002], "matches": []},
+    {"id": 1004, "name": "Shelldon", "age": 5, "type": "Turtle", "gender": "Female", "size": "Medium", "description": "Enjoys slow walks in the garden.", "imageName": "turtle1", "likes": [1002],
+        "dislikes": [1003], "matches": []},
+    {"id": 1005, "name": "Hissy", "age": 2, "type": "Rabbit", "gender": "Male", "size": "Large", "description": "Shy but friendly once you get to know him.", "imageName": "rabbit1", "likes": [1001],
+        "dislikes": [1003], "matches": []},
+    {"id": 1006, "name": "Barkley", "age": 4, "type": "Dog", "gender": "Male", "size": "Large", "description": "Loyal and protective.", "imageName": "dog2", "likes": [1001],
+        "dislikes": [1003], "matches": []},
+    {"id": 1007, "name": "Fuzzy", "age": 3, "type": "Cat", "gender": "Female", "size": "Medium", "description": "Independent but affectionate.", "imageName": "cat3", "likes": [1001, 1002, 1004],
+        "dislikes": [1003, 1002, 1004], "matches": []},
+    {"id": 1008, "name": "Hoppy", "age": 1, "type": "Dog", "gender": "Female", "size": "Small", "description": "Energetic and loves to play.", "imageName": "dog3", "likes": [1005],
+        "dislikes": [1003], "matches": []},
+    {"id": 1009, "name": "Speedy", "age": 6, "type": "Other", "gender": "Male", "size": "Small", "description": "Old but adventurous.", "imageName": "other1", "likes": [1001],
+        "dislikes": [1003], "matches": []},
+    {"id": 1010, "name": "Slinky", "age": 2, "type": "Snake", "gender": "Female", "size": "Medium", "description": "Loves to explore new places.", "imageName": "snake1", "likes": [1001],
+        "dislikes": [1003], "matches": []}
+]
