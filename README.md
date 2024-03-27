@@ -10,4 +10,4 @@ Pepper features three main tabs: Discover, Message, and Profile. In the Discover
 
 
 
-[Preview vedio](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=97cb57aa-cd15-4457-b0a1-b12901497888)
+[Preview vedio](Pepper.mov)
